@@ -6,7 +6,7 @@ draft: false
 ---
 
 I watch a lot of [YouTube](https://www.youtube.com/). In fact, a lot of younger people [watch more YouTube](https://www.thinkwithgoogle.com/consumer-insights/video-trends-where-audience-watching/)
-then they watch television. If you're like me, YouTube is not only an endless source of entertainment, but it also serves as a source of knowledge and information. The platform has videos on
+than they watch television. If you're like me, YouTube is not only an endless source of entertainment, but it also serves as a source of knowledge and information. The platform has videos on
 just about anything from how to make your own [fermented food](https://www.youtube.com/watch?v=zx8pYMkkKXg), [cracking the Sega Saturn](https://www.youtube.com/watch?v=jOyfZex7B3E) or
 [Joe Rogan interviewing himself](https://www.youtube.com/watch?v=-xY_D8SMNtE). However, if you have been on the platform for as long as I have, you have probably caught on by now
 just how much [clickbait](https://en.wikipedia.org/wiki/Clickbait) YouTube creators use. For example, creators structure their video thumbnails a particular way to catch the audiences'
@@ -84,7 +84,7 @@ So for the sake of simplicity, I proceeded with training on just US videos.
 Specifically I'm talking about how to make the text generated appear as real titles. One possible way would be to incorporate part-of-speech tagging to the generation.
 This can add some overall structure to the titles, therefore making them appear less nonsensical.
 
-#### Use more sophisticated models
+#### Using more sophisticated models
 Attention models are big right now for image captioning. However your model is only as good as the data you train it on, and if we're only working with `41,000 records`,
 most of which are non-sensical in the first place, attention models might not give us fantastic results, but it would be interesting nonetheless.
 
