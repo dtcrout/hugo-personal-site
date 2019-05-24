@@ -13,7 +13,7 @@ description = ""
   tag = "tags"
 
 [params]
-  titleEmoji = ":taco:"
+  titleEmoji = "💾👨‍🔬"
   # change this!
   twitter = "durshmallow"
 
