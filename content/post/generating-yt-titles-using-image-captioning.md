@@ -49,7 +49,7 @@ probability of all other words. If we want to generate less non-sensical answers
 probable word, let's consider randomly choosing uniformly over all words. In addition, another heuristic we should consider is to eliminate words appearing twice. This will help to make
 our results _appear_ like proper sentences or titles. Applying these heuristics, we get results that are interesting to say the least.
 
-What originally make me interested about this project was just how downright nonsensical video titles can be as they can be clickbaity and contain a lot of internet slang. It's great to
+What originally got me interested about doing this project was just how downright nonsensical video titles can be as they can be clickbaity and contain a lot of internet slang. It's great to
 see some of the generated captions contain some of these words.
 
 ![litfam](/post/images/caption_generation/litfam.png)
