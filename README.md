@@ -1,6 +1,6 @@
 Personal website files using Hugo static site generator.
 
-## Getting started
+## Getting Started
 
 First make theme directory and clone theme to directory using `$ make`.
 
