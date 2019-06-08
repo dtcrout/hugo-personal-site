@@ -1,4 +1,4 @@
-baseurl = "https://darshancrout.ai"
+baseurl = "https://darshancrout.ai/"
 title = "Darshan Crout"
 theme ="hugo-theme-basic"
 languageCode = "en-us"
