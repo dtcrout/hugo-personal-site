@@ -8,9 +8,9 @@ During my undergrad, I got involved in mathematical models for biological aggreg
 
 Here are more things I'm into:
 
-* DIY
-* Linux and Emacs
-* Mechanical Keyboards
-* Music
+* DIY 🔨
+* Linux and Emacs 🐱‍💻
+* Mechanical Keyboards ⌨️
+* Music 🎸
 
 You can also reach me via other mediums: [GitHub](https://github.com/dtcrout), [LinkedIn](https://www.linkedin.com/in/darshancrout/), [Twitter](https://twitter.com/durshmallow).
