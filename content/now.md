@@ -2,16 +2,21 @@
 title: "Now"
 ---
 
-Here are the things I've been up to recently!
+Here are a list of things I've been up to this year, from what I'm reading to what projects I'm working on.
 
 ## Reading 📚
 
 ### Currently Reading
-* [Our Band Could Be Your Life: Scenes from the American Indie Underground 1981-1991, by Michael Azerrad](https://www.amazon.com/dp/0316787531/ref=cm_sw_em_r_mt_dp_U_JkHyCbX5MYAPG)
-* [Thinking, Fast and Slow, by Daniel Kahneman](https://www.amazon.com/dp/0374533555/ref=cm_sw_em_r_mt_dp_U_siHyCbTJAZ0YB)
-* [Existentialism from Dostoevsky to Sartre: Basic Writings of Existentialism by Kaufmann, Kierkegaard, Nietzsche, Jaspers, Heidegger, and Others, by Walter Kaufmann](https://www.amazon.ca/dp/0452009308/ref=cm_sw_r_tw_dp_U_x_T8HcDb2FG350Y)
+* [Our Band Could Be Your Life: Scenes from the American Indie Underground 1981-1991](https://www.amazon.com/dp/0316787531/ref=cm_sw_em_r_mt_dp_U_JkHyCbX5MYAPG), by Michael Azerrad
+* [Thinking, Fast and Slow](https://www.amazon.com/dp/0374533555/ref=cm_sw_em_r_mt_dp_U_siHyCbTJAZ0YB), by Daniel Kahneman
+* [Existentialism from Dostoevsky to Sartre: Basic Writings of Existentialism by Kaufmann, Kierkegaard, Nietzsche, Jaspers, Heidegger, and Others](https://www.amazon.ca/dp/0452009308/ref=cm_sw_r_tw_dp_U_x_T8HcDb2FG350Y), by Walter Kaufmann
+* [White Noise](https://www.amazon.com/dp/0143129554/ref=cm_sw_r_tw_dp_U_x_gUqhDbTEYRE6P), by Don DeLillo
 
 ### Paper Pile
+* [Troubling Trends in Machine Learning Scholarship (2018)](https://arxiv.org/abs/1807.03341)
+  <br> Zachary C. Lipton, Jacob Steinhardt
+* [CNM: An Interpretable Complex-valued Network for Matching (2019)](https://arxiv.org/abs/1904.05298)
+  <br> Qiuchi Li, Benyou Wang, Massimo Melucci
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2019)](https://arxiv.org/abs/1810.04805)
   <br> Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
 * [Neural Ordinary Differential Equations (2019)](https://arxiv.org/abs/1806.07366)
