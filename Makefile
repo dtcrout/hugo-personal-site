@@ -1,12 +1,12 @@
 # META ]------------------------------------------------------------------------
 help:
-	@echo "default				Make theme directory and clone theme to directory."
-	@echo "latest				Serve site locally in debug mode."
+	@echo "theme				Make theme directory and clone theme to directory."
+	@echo "test				Serve site locally in debug mode."
 	@echo "build				Make site files."
 	@echo "clean				Remove artifacts and standardize repo."
 
 # CORE ]------------------------------------------------------------------------
-default:
+theme:
 	mkdir -p themes && cd themes && git clone https://github.com/siegerts/hugo-theme-basic.git
 
 test:
