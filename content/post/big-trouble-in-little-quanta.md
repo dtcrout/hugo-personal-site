@@ -65,7 +65,7 @@ Remember thought that _bra_ and _ket_ vectors are _just_ vectors. What this equa
 
 ### Misuse of Language
 
-I believe that the paper misuses the language and concepts of quantum mechanics to justify the use of complex-valued spaces. In the Introduction [1], the authors state: "Intuitively, a sentence can be treated as a physical system with multiple words (like particles), and these words are usually polysemous (superposed) and correlated (entagled) with each other."
+I believe that the paper misuses the language and concepts of quantum mechanics to justify the use of complex-valued spaces. In the Introduction [1], the authors state: "Intuitively, a sentence can be treated as a physical system with multiple words (like particles), and these words are usually polysemous (superposed) and correlated (entangled) with each other."
 
 Let's take a moment to think about this statement. How are words or sentences in the linguistic sense analogous to _physical_ particles like electrons? Similar to explanations from Deepak Chopra, the use of quantum mechanics is abused to fit a particular narrative. Quantum mechanics is simply used to explain physics of particles which are on the quantum scale. Making analogies like these are far-fetched and flat-out unreasonable. By using language to explain quantum physics, it implies that words exhibit quantum phenomena.
 
@@ -73,7 +73,7 @@ Again, I believe it's fine to propose a framework which uses a complex-valued ve
 
 The authors even state in the Introduction how "complex values are crucial in the mathematical framework of characterizing quantum physics. [Therefore] to preserve physical properties, the linguistic units have to be represented as complex vectors or matrices". The issue is that linguistics is not a _physical_ property nor is it quantum, so why does it _need_ to preserve physical properties?
 
-In defense of the authors, they reference two papers which suggest that human-cognition and language understanding exhibit quantum-like phenomena [4], [5], but I still feel like it's a stretch to relate the congitive aspect of consciousness with a mathematical framework to model language.
+In defense of the authors, they reference two papers which suggest that human-cognition and language understanding exhibit quantum-like phenomena [4], [5], but I still feel like it's a stretch to relate the cognitive science ideas of "consciousness" with a mathematical framework to model language.
 
 ## Final Remarks
 
