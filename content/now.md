@@ -7,12 +7,12 @@ Here are a list of things I've been up to this year, from what I'm reading to wh
 ## Reading 📚
 
 ### Completed
+* [White Noise](https://www.amazon.com/dp/0143129554/ref=cm_sw_r_tw_dp_U_x_gUqhDbTEYRE6P), by Don DeLillo
 * [Our Band Could Be Your Life: Scenes from the American Indie Underground 1981-1991](https://www.amazon.com/dp/0316787531/ref=cm_sw_em_r_mt_dp_U_JkHyCbX5MYAPG), by Michael Azerrad
 
 ### Currently Reading
-* [Thinking, Fast and Slow](https://www.amazon.com/dp/0374533555/ref=cm_sw_em_r_mt_dp_U_siHyCbTJAZ0YB), by Daniel Kahneman
+* [Meditations](https://www.amazon.com/dp/0812968255/ref=cm_sw_r_tw_dp_U_x_TyBlDbR4HPXSK), by Marcus Aurelius
 * [Existentialism from Dostoevsky to Sartre: Basic Writings of Existentialism by Kaufmann, Kierkegaard, Nietzsche, Jaspers, Heidegger, and Others](https://www.amazon.ca/dp/0452009308/ref=cm_sw_r_tw_dp_U_x_T8HcDb2FG350Y), by Walter Kaufmann
-* [White Noise](https://www.amazon.com/dp/0143129554/ref=cm_sw_r_tw_dp_U_x_gUqhDbTEYRE6P), by Don DeLillo
 
 ### Paper Pile
 * [Troubling Trends in Machine Learning Scholarship (2018)](https://arxiv.org/abs/1807.03341)
