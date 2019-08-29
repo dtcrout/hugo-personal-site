@@ -11,7 +11,7 @@ You're at work one day, when your boss approaches you with a peculiar task.
 
 You go to your terminal and open the file in your text editor. The file opens and you take a quick glimpse of the code. Java is known to be ugly, but this is different. Something isn't quite right. You can't help but to feel a bit disturbed.
 
-Glancing over the code a bit more, you realize that there are no comments. There's not one docstring is in sight. All the variables and functions have generic names like `array1` or `x`. There are no references, no signals to _what_ anything does, or what _purpose_ they serve.
+Glancing over the code a bit more, you realize that there are no comments. There's not one docstring that is in sight. All the variables and functions have generic names like `array1` or `x`. There are no references, no signals to _what_ anything does, or what _purpose_ they serve.
 
 You look more into the code and to your disbelief the author wrote their own casting function. Given a number in a string, the function checks if it's zero, else if it's one, else if it's two, else if it's three... You scroll down further and suddenly the _unhandiness_ of the code shows itself.
 
@@ -35,15 +35,15 @@ In this post, we will talk about Makefiles, why they're _handy_ and how they can
 
 ## What is a Makefile?
 
-Makefiles help you automate your development workflow, make installation of your project simple and help standardization of working environments for other contributors. You see them when installing packages from source, or for C development, but they can be used for a lot of other things.
+Makefiles help you automate your development workflow, make the installation of your project simple and help standardization of working environments for other contributors. You see them when installing packages from source, or for C development, but they can be used for a lot of other things.
 
 In essence, they are a wrapper or an alias for commands or a series of commands. This can be very handy for example when you're debugging code and need to execute test cases and check those test cases every time you make a change. This is what I did when I was porting the Java code over to Python, needing to check whether or not the output remained the same after every change I made.
 
-I use them for just about everything now. Take my blog as another example. Whenever I come back to writing a new post, I typically don't have my development environment set up. I need to download my theme and I need to start up a server to preview my site locally. Because I always forget these commands I made a `Makefile` to make the setup easier.
+I use them for just about everything now. Take my blog as another example. Whenever I come back to writing a new post, I typically don't have my development environment set up. I need to download my theme and I need to start up a server to preview my site locally. Because I always forget these commands I made a Makefile to make the setup easier.
 
 ## How do I _make_ a Makefile?
 
-Consider the following example. You're developing a Python web server. You need a command to run the application, and another command to execute some `curl` commands to test your endpoints.
+Consider the following example: you're developing a Python web server. When developing the application, you need a command to run the application, and another command to execute some `curl` commands to test your endpoints. The output of the `curl` command will be compared to an expected output like `diff`.
 
 Adding a `Makefile` in the root of the directory of your project, we can make a command to execute your Python app:
 
@@ -65,7 +65,7 @@ make test:
     diff output.txt test.txt
 ```
 
-Running `make test` will execute all those lines in one command, allowing you to move back to coding or take action if differences arise.
+Running `make test` will execute all those lines in one command, allowing you to move back to coding or take action if differences arise. No need to switch terminals, copy/paste commands, or use other applications.
 
 ## I still don't know what to _make_ of Makefiles
 
@@ -103,7 +103,7 @@ clean: deps
 	rm -rf *.html *.csv .cache-* __pycache__ venv/
 ```
 
-In this Makefile, we have a `help` task. Typing `make help` in the terminal will provide some documentation on what each other task in the Makefile does.
+In this Makefile, we have a `help` target. Typing `make help` in the terminal will provide some documentation on what each other task in the Makefile does.
 
 [Spotitude](https://github.com/dtcrout/spotitude) is an open-source project. Having a Makefile included in the project makes it simple for contributors to install the dependencies (`make deps`) and standardize the repo (`make clean`).
 
