@@ -1,6 +1,6 @@
 ---
 author: Darshan Crout
-title: "Building a Site Using Hugo"
+title: "Building a site using Hugo"
 date: 2019-01-27
 draft: false
 ---

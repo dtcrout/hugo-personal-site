@@ -11,6 +11,7 @@ Here are a list of things I've been up to this year, from what I'm reading to wh
 * [Our Band Could Be Your Life: Scenes from the American Indie Underground 1981-1991](https://www.amazon.com/dp/0316787531/ref=cm_sw_em_r_mt_dp_U_JkHyCbX5MYAPG), by Michael Azerrad
 
 ### Currently Reading
+* [Being and Time](https://www.amazon.com/dp/1438432763/ref=cm_sw_r_tw_dp_U_x_mBXzDb882ZDDJ), by Martin Heidegger
 * [Meditations](https://www.amazon.com/dp/0812968255/ref=cm_sw_r_tw_dp_U_x_TyBlDbR4HPXSK), by Marcus Aurelius
 * [Existentialism from Dostoevsky to Sartre: Basic Writings of Existentialism by Kaufmann, Kierkegaard, Nietzsche, Jaspers, Heidegger, and Others](https://www.amazon.ca/dp/0452009308/ref=cm_sw_r_tw_dp_U_x_T8HcDb2FG350Y), by Walter Kaufmann
 
@@ -26,6 +27,7 @@ Here are a list of things I've been up to this year, from what I'm reading to wh
 
 ## Projects 👨‍💻
 
+* **[ August 28, 2019 ]** Porting code is a forensic endeavour. Throughout the horrible experience I learned the _handiness_ of Makefiles. Post about it [here](/post/make-life-easier-with-makefiles)
 * **[ July 5, 2019 ]** I recently read a paper called [CNM: An Interpretable Complex-valued Network for Matching](https://arxiv.org/abs/1904.05298) and I was not satisfied with the author's use of physics. Instead of falling into nihilistic despair, I decided to [write about it](/post/big-trouble-in-little-quanta)
 * **[ June 1, 2019 ]** Spotitude is now a web app: https://spotitude.me/. Look at your top tracks on different time ranges and create a playlist. Made with Vue.js. Code found [here](https://github.com/dtcrout/spotitude-webapp)
 * **[ May 31, 2019 ]** I'm participating in a joint collaboration by the [Vector Institute](https://vectorinstitute.ai/) and people from other industries to recreate SOTA language models
