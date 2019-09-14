@@ -12,14 +12,16 @@ just about anything from how to make your own [fermented food](https://www.youtu
 just how much [clickbait](https://en.wikipedia.org/wiki/Clickbait) YouTube creators use. For example, creators structure their video thumbnails a particular way to catch the audiences'
 attention and the same thing can be said for the titles. This helps with getting their videos picked up by the search engine optimization algorithm.
 
-![Clickbait Example](/post/images/caption_generation/clickbait.png)
+<!-- ![Clickbait Example](/post/images/caption_generation/clickbait.png) -->
+<center><img src="/post/images/caption_generation/clickbait.png" alt="drawing" width="800"/></center>
 
 As a consequence of content creators engaging in these practices, YouTube and its community has unintentionally developed its own unique style and language.
 Motivated by curiosity, I thought about what it would be like to train an image captioning model based on this strange internet subculture. Using
 [LSTMs and an encoder-decoder model](https://arxiv.org/abs/1708.02043), I trained an image caption model on YouTube thumbnails and their titles to generate new titles.
 The code can be found on [GitHub](https://github.com/dtcrout/yt-title-generator).
 
-![They take time!](/post/images/caption_generation/koji.png)
+<!-- ![They take time!](/post/images/caption_generation/koji.png) -->
+<center><img src="/post/images/caption_generation/koji.png" alt="drawing" width="800"/></center>
 
 ## Getting the Data
 
@@ -42,7 +44,8 @@ Stopwords were left in. The vocabulary size was `7,788 words`. The dataset was s
 After training the model, captions were generated for all thumbnails and compared to the original titles. Immediately we notice
 something strange...
 
-![Model is generating repeating words](/post/images/caption_generation/repeated.png)
+<!-- ![Model is generating repeating words](/post/images/caption_generation/repeated.png) -->
+<center><img src="/post/images/caption_generation/repeated.png" alt="drawing" width="800"/></center>
 
 For a given thumbnail and starting word, we choose the next most probable following word. In our models case, we see that one word has a higher
 probability of all other words. If we want to generate less non-sensical answers, we need to create some heuristics and hope for the best. Instead of choosing the next most
@@ -52,12 +55,14 @@ our results _appear_ like proper sentences or titles. Applying these heuristics,
 What originally got me interested about doing this project was just how downright nonsensical video titles can be as they can be clickbaity and contain a lot of internet slang. It's great to
 see some of the generated captions contain some of these words.
 
-![litfam](/post/images/caption_generation/litfam.png)
+<!-- ![litfam](/post/images/caption_generation/litfam.png) -->
+<center><img src="/post/images/caption_generation/litfam.png" alt="drawing" width="800"/></center>
 
 Another thing we notice is that a lot of videos contain terminology used for music videos or movie trailers, eg. _official_, _hd_, _music_ and _trailer_. This poses a question
 of just how much YouTube's trending videos contain trailers and music videos compared to actual videos by content creators.
 
-![Trailers](/post/images/caption_generation/trailers.png)
+<!-- ![Trailers](/post/images/caption_generation/trailers.png) -->
+<center><img src="/post/images/caption_generation/trailers.png" alt="drawing" width="800"/></center>
 
 Despite some of the generated captions being nonsensical, they don't seem that out of the ordinary. In fact, perhaps if we limit our scope to a few categories of videos and
 increase the size of our data, we would get some decent results.

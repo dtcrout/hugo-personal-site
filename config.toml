@@ -4,7 +4,7 @@ theme ="hugo-theme-basic"
 languageCode = "en-us"
 googleAnalytics = "UA-133534404-1"
 enableEmoji = true
-copyright = "© 2019 Darshan Crout"
+copyright = "© 2019 Darshan Crout <a href='https://twitter.com/durshmallow'>(@durshmallow)</a>. All rights reserved."
 description = ""
 
 [taxonomies]
@@ -13,7 +13,7 @@ description = ""
   tag = "tags"
 
 [params]
-  titleEmoji = "💾👨‍🔬"
+  titleEmoji = "🏊🚴‍♂️🏃‍♂️👨‍💻"
   # change this!
   twitter = "durshmallow"
 

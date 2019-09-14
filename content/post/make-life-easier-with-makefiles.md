@@ -5,6 +5,8 @@ date: 2019-08-28
 draft: false
 ---
 
+_Imagine the following scenario:_
+
 You're at work one day, when your boss approaches you with a peculiar task.
 
 "Open your email. I sent you a piece of code", he says. "There's another team who wrote it and they say it takes days to run... They have no idea why though".
