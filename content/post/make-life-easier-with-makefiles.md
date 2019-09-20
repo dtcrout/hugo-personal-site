@@ -1,6 +1,6 @@
 ---
 author: Darshan Crout
-title: "Make life easier with Makefiles"
+title: "Make Life Easier with Makefiles"
 date: 2019-08-28
 draft: false
 ---
@@ -61,7 +61,7 @@ This is a trivial example, but now what if you want to test your endpoints? Curl
 ```
 make run:
     python app.py
-    
+
 make test:
     curl -X POST http://localhost:8080/my_endpoint > output.txt
     diff output.txt test.txt

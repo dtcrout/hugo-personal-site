@@ -1,6 +1,6 @@
 ---
 author: Darshan Crout
-title: "Generating YouTube titles using image captioning"
+title: "Generating YouTube Titles Using Image Captioning"
 date: 2019-05-11
 draft: false
 ---
