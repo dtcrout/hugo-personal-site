@@ -58,21 +58,20 @@ from config import Config
 from sql_library import connect
 
 if __name__ == "__main__":
+    # Initiate the config class
+    config = Config()
 
-# Initiate the config class
-config = Config()
+    # Get the credentials
+    uname = config.username
+    pass = config.password
 
-# Get the credentials
-uname = config.username
-pass = config.password
+    # Use the credentials for what you need them for
+    sql_connector = connect(uname, pass)
 
-# Use the credentials for what you need them for
-sql_connector = connect(uname, pass)
-
-# do
-# stuff
-# here
-# ...
+    # do
+    # stuff
+    # here
+    # ...
 ```
 
 You can see now our credentials are just obtained from the `Config()` class and never _explicitly_ stated anywhere in the code. As your code gets more complex and the more instances of your credentials you need, you can be rest assured that your credentials won't be exposed explicitly in the code.
