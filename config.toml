@@ -40,6 +40,10 @@ description = ""
   name = "about"
   url = "about/"
 
+[[params.menu]]
+  name = "rss"
+  url = "index.xml"
+
 [privacy]
   [privacy.googleAnalytics]
     anonymizeIP = true
