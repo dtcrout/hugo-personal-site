@@ -1,7 +1,7 @@
 ---
 author: Darshan Crout
 title: "Meditations on First Contributions"
-date: 2019-09-23
+date: 2019-09-26
 draft: true
 ---
 
