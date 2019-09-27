@@ -27,6 +27,7 @@ Here are a list of things I've been up to this year, from what I'm reading to wh
 
 ## Projects 👨‍💻
 
+* **[ September 26, 2019 ]** I wrote some reflections on my journey into open source software development. I learned that it's not just about writting code. I can be about teaching too. Post [here](/post/meditations-on-first-contributions)
 * **[ September 20, 2019 ]** I wrote some steps you can take to prevent data leakage in your next data science or machine learning project. Post [here](/post/prevent-data-leakage-in-your-data-science-project)
 * **[ August 28, 2019 ]** Porting code is a forensic endeavour. Throughout the horrible experience I learned the _handiness_ of Makefiles. Post about it [here](/post/make-life-easier-with-makefiles)
 * **[ July 5, 2019 ]** I recently read a paper called [CNM: An Interpretable Complex-valued Network for Matching](https://arxiv.org/abs/1904.05298) and I was not satisfied with the author's use of physics. Instead of falling into nihilistic despair, I decided to [write about it](/post/big-trouble-in-little-quanta)

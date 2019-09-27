@@ -2,7 +2,7 @@
 author: Darshan Crout
 title: "Meditations on First Contributions"
 date: 2019-09-26
-draft: true
+draft: false
 ---
 
 <center><img src="/post/images/misc/ferris.png" alt="drawing" width="800"/></center>
