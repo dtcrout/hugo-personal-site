@@ -13,7 +13,7 @@ For those who are already familiar with Suckless, you're probably wondering why 
 
 So why write this post? Having gone through the process myself, I figured it would be a good idea to make (yet another) blog post about building a site using Hugo. Hopefully this tutorial will either help others to build their first site, migrate their old site to Hugo, or to help with any bugs or challenges they encounter.
 
-## Downloading and Installing Hugo
+## Downloading and installing Hugo
 
 Let's get started by downloading and installing Hugo. The latest version can be found [here](https://github.com/gohugoio/hugo/releases).
 
@@ -27,7 +27,7 @@ $ hugo version
 
 which will output the version of Hugo installed on your machine.
 
-## Creating a New Project
+## Creating a new project
 
 As mentioned earlier, static blog generators provide frameworks to build a site. It creates all the files necessary to build your site. All you need to do is provide content.
 
@@ -48,7 +48,7 @@ Moving into the project directory, we see the following files and directories:
 * `themes/`
   * Directory to store your Hugo themes
 
-## Installing a Theme
+## Installing a theme
 
 Currently Hugo does not have a default theme when creating a new project, therefore we need to install one. You can browse different Hugo themes [here](https://themes.gohugo.io/). You are also free to install themes from other sources like [r/gohugo](https://www.reddit.com/r/gohugo/).
 
@@ -66,7 +66,7 @@ $ hugo server -D
 
 Running this command will start a live instance of your website in debug mode. This means after making changes to your site and saving them, the changes are updated on the site in real time.
 
-## Creating Content
+## Creating content
 
 Once your theme is installed and your site is set up, it's time to start writing posts. Again it helps to read the instructions on the theme you coose to use as it may require your Markdown files to be in particular directories. Typically, all content is stored in the `content/` directory. If you are making a blog, your blog posts will go in a separate folder called `posts/` which is in the `content/` directory.
 

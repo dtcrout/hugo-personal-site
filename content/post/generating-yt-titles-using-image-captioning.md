@@ -23,7 +23,7 @@ The code can be found on [GitHub](https://github.com/dtcrout/yt-title-generator)
 <!-- ![They take time!](/post/images/caption_generation/koji.png) -->
 <center><img src="/post/images/caption_generation/koji.png" alt="drawing" width="800"/></center>
 
-## Getting the Data
+## Getting the data
 
 If we want to get a good representation of what YouTube represents today, we look no further than the trending videos found on its homepage. The trending page is essentially the top
 watched videos on the platform. YouTube does provide its own API to obtain metadata for its videos, but you're limited to making a limited number of requests. Doing a quick Google
@@ -67,7 +67,7 @@ of just how much YouTube's trending videos contain trailers and music videos com
 Despite some of the generated captions being nonsensical, they don't seem that out of the ordinary. In fact, perhaps if we limit our scope to a few categories of videos and
 increase the size of our data, we would get some decent results.
 
-## Further Work
+## Further work
 
 Experimenting with an image caption generation model with YouTube thumbnails shows some promise, however the results could be better. A couple of reasons for these not-so-good results
 being a lack of data and an imbalance of different categories of videos. Some other things we can consider in order to improve this model can be:
