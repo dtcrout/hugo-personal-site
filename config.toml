@@ -14,8 +14,8 @@ description = ""
 
 [params]
   titleEmoji = "🏊🚴‍♂️🏃‍♂️👨‍💻"
-  # change this!
   twitter = "durshmallow"
+  disqusShortname = "http-darshancrout-ai"
 
 [Permalinks]
   post = "post/:slug"
