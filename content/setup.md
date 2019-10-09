@@ -5,9 +5,9 @@ title: "Setup"
 I'm interested in the [gear other people use](https://usesthis.com/) to get their work done.
 If you're at all curious, here's my personal setup:
 
-## Lenovo ThinkPad x220 💻
+## MacBook Air 2019 💻
 
-The xx20 ThinkPad series is the last one to have the classical keyboard. I use this computer as my daily driver. I run Ubuntu LTS as my primary OS, switching between different window managers. For development I use [tmux](https://github.com/tmux/tmux/wiki) and [Spacemacs](http://spacemacs.org/). My dotfiles are hosted on [GitHub](https://github.com/dtcrout/dotfiles). For additional productivity, I use the [Vimium](https://vimium.github.io/) Chrome extension which brings Vim controls to the browser.
+I switched to a MacBook from a ThinkPad x220 as my daily driver mainly out of convenience. For development I use [tmux](https://github.com/tmux/tmux/wiki) and [Spacemacs](http://spacemacs.org/). My dotfiles are hosted on [GitHub](https://github.com/dtcrout/dotfiles). For additional productivity, I use the [Vimium](https://vimium.github.io/) Chrome extension which brings Vim controls to the browser.
 
 ## Happy Hacking Keyboard Professional 2 + Hasu BT Controller ⌨️
 
