@@ -6,6 +6,7 @@ googleAnalytics = "UA-133534404-1"
 enableEmoji = true
 copyright = "© 2019 Darshan Crout (<a href='https://twitter.com/durshmallow'>@durshmallow</a>). All rights reserved."
 description = ""
+disqusShortname = "http-darshancrout-ai"
 
 [taxonomies]
   category = "categories"
@@ -15,7 +16,6 @@ description = ""
 [params]
   titleEmoji = "🏊🚴‍♂️🏃‍♂️👨‍💻"
   twitter = "durshmallow"
-  disqusShortname = "http-darshancrout-ai"
 
 [Permalinks]
   post = "post/:slug"
