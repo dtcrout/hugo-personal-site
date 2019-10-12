@@ -7,11 +7,11 @@ Here are a list of things I've been up to this year, from what I'm reading to wh
 ## Reading 📚
 
 ### Completed
+* [Being and Time (Part I, Division I)](https://www.amazon.com/dp/1438432763/ref=cm_sw_r_tw_dp_U_x_mBXzDb882ZDDJ), by Martin Heidegger
 * [White Noise](https://www.amazon.com/dp/0143129554/ref=cm_sw_r_tw_dp_U_x_gUqhDbTEYRE6P), by Don DeLillo
 * [Our Band Could Be Your Life: Scenes from the American Indie Underground 1981-1991](https://www.amazon.com/dp/0316787531/ref=cm_sw_em_r_mt_dp_U_JkHyCbX5MYAPG), by Michael Azerrad
 
 ### Currently Reading
-* [Being and Time](https://www.amazon.com/dp/1438432763/ref=cm_sw_r_tw_dp_U_x_mBXzDb882ZDDJ), by Martin Heidegger
 * [Meditations](https://www.amazon.com/dp/0812968255/ref=cm_sw_r_tw_dp_U_x_TyBlDbR4HPXSK), by Marcus Aurelius
 * [Existentialism from Dostoevsky to Sartre: Basic Writings of Existentialism by Kaufmann, Kierkegaard, Nietzsche, Jaspers, Heidegger, and Others](https://www.amazon.ca/dp/0452009308/ref=cm_sw_r_tw_dp_U_x_T8HcDb2FG350Y), by Walter Kaufmann
 
