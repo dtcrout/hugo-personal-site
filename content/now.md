@@ -27,6 +27,7 @@ Here are a list of things I've been up to this year, from what I'm reading to wh
 
 ## Projects 👨‍💻
 
+* **[ October 13, 2019 ]** The mouse, trackpad and arrow keys are hot lava! 🖱️⌨️🔥I wrote a [post](/post/speed-up-your-workflow-the-evil-way) about how Vim and Emacs shortcuts can be used in the browser and macOS
 * **[ September 26, 2019 ]** I wrote some reflections on my journey into open source software development. I learned that it's not just about writting code. I can be about teaching too. Post [here](/post/meditations-on-first-contributions)
 * **[ September 20, 2019 ]** I wrote some steps you can take to prevent data leakage in your next data science or machine learning project. Post [here](/post/prevent-data-leakage-in-your-data-science-project)
 * **[ August 28, 2019 ]** Porting code is a forensic endeavour. Throughout the horrible experience I learned the _handiness_ of Makefiles. Post about it [here](/post/make-life-easier-with-makefiles)
