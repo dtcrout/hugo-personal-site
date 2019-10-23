@@ -29,6 +29,7 @@ Here are a list of things I've been up to this year, from what I'm reading to wh
 
 ## Projects 👨‍💻
 
+* **[ October 22, 2019 ]** I took a trip down the _gopher_ hole and wrote a web scraper for the [Pitchfork 500](https://en.wikipedia.org/wiki/The_Pitchfork_500) using Golang. Post [here](/post/create-a-web-scraper-using-go) and code [here](https://github.com/dtcrout/pitchfork-500-scraper)
 * **[ October 13, 2019 ]** The mouse, trackpad and arrow keys are hot lava! 🖱️⌨️🔥I wrote a [post](/post/speed-up-your-workflow-the-evil-way) on how Vim and Emacs shortcuts can be used in the browser and macOS
 * **[ September 26, 2019 ]** I wrote some reflections on my journey into open source software development. I learned that it's not just about writting code. I can be about teaching too. Post [here](/post/meditations-on-first-contributions)
 * **[ September 20, 2019 ]** I wrote some steps you can take to prevent data leakage in your next data science or machine learning project. Post [here](/post/prevent-data-leakage-in-your-data-science-project)
