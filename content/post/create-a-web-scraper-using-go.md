@@ -61,7 +61,7 @@ func main() {
 }
 ```
 
-What's shown here is typical boilerplate for a Go app. In our `main()` function, we are calling the `Println` method from the `fmt` library and printing the string `Hello, World` from the terminal. To run this code in the terminal, use the command:
+What's shown here is typical boilerplate for a Go app. In our `main()` function, we are calling the `Println` method from the [fmt](https://golang.org/pkg/fmt/) library and printing the string `Hello, World` from the terminal. To run this code in the terminal, use the command:
 
 ```
 $ go run main.go
