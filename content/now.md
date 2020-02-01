@@ -6,9 +6,12 @@ Here's a list of things I've been up to, from what I'm reading to what projects 
 
 ## Reading 📚
 
-### Currently Reading
+### Completed
 
 * [Black Skin, White Masks](https://www.amazon.com/dp/0802143008/ref=cm_sw_r_tw_dp_U_x_yTMiEbYZKRN3S), by Frantz Fanon
+
+### Currently Reading
+
 * [Simulacra and Simulation](https://www.amazon.com/dp/0472065211/ref=cm_sw_r_tw_dp_U_x_5n7fEbVPD5519), by Jean Baudrillard
 
 ## Projects 👨‍💻
