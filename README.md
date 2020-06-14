@@ -1,9 +1,7 @@
-Personal website files using Hugo static site generator.
+Personal website files using [Hugo](https://gohugo.io/) static site generator.
 
 ## Getting Started
 
-First make theme directory and clone theme to directory using `$ make`.
-
-To serve site locally in debug mode, run `$ make test`.
-
-To create site files, run `$ make build`.
+* `make theme`: Make the theme directory and clone the theme to the directory.
+* `make local`: Deploy local instance of site.
+* `make build`: Create static files for publishing.
