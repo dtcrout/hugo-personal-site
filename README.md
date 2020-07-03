@@ -1,5 +1,9 @@
 Personal website files using [Hugo](https://gohugo.io/) static site generator.
 
+## Requirements
+
+Hugo v.0.58.0
+
 ## Getting Started
 
 * `make theme`: Make the theme directory and clone the theme to the directory.
