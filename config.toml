@@ -4,7 +4,7 @@ theme ="hugo-theme-basic"
 languageCode = "en-us"
 googleAnalytics = "UA-133534404-1"
 enableEmoji = true
-copyright = "© 2019 Darshan Crout (<a href='https://twitter.com/durshmallow'>@durshmallow</a>). All rights reserved."
+copyright = "© 2020 Darshan Crout (<a href='https://twitter.com/durshmallow'>@durshmallow</a>). All rights reserved."
 description = ""
 disqusShortname = "http-darshancrout-ai"
 
@@ -14,11 +14,19 @@ disqusShortname = "http-darshancrout-ai"
   tag = "tags"
 
 [params]
-  titleEmoji = "🏊🚴‍♂️🏃‍♂️👨‍💻"
+  titleEmoji = "👨‍💻"
   twitter = "durshmallow"
 
 [Permalinks]
   post = "post/:slug"
+
+[[params.menu]]
+  name = "about"
+  url = "about/"
+
+[[params.menu]]
+  name = "now"
+  url = "now/"
 
 [[params.menu]]
   name = "posts"
@@ -29,16 +37,8 @@ disqusShortname = "http-darshancrout-ai"
 #   url = "series/"
 
 [[params.menu]]
-  name = "now"
-  url = "now/"
-
-[[params.menu]]
   name = "setup"
   url = "setup/"
-
-[[params.menu]]
-  name = "about"
-  url = "about/"
 
 [[params.menu]]
   name = "rss"

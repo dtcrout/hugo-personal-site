@@ -75,7 +75,7 @@ The authors even state in the Introduction how "complex values are crucial in th
 
 In defence of the authors, they reference two papers which suggest that human-cognition and language understanding exhibit quantum-like phenomena [4], [5], but I still believe it's a stretch to relate the cognitive science ideas of "consciousness" with a mathematical framework to model language.
 
-## Final Remarks
+## Final remarks
 
 I do appreciate the author's efforts in trying to create a tool for explainability. However in CNMs, there was too much of a focus on _how well_ the model worked compared to current methods instead of explainability: _why did it work_? We're drawn to the fancy and exotic bra-ket notation and the allure of quantum mechanics, taking our attention away from the real issues of the paper. Does it really make sense for language to behave as a system of elementary particles? What evidence do the authors provide to support such a claim?
 
