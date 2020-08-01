@@ -8,6 +8,7 @@ Here's a list of things I've been up to, from what I'm reading to what projects 
 
 ### Completed
 
+* [Nineteen Eighty-Four](https://www.amazon.com/dp/0451524934/ref=cm_sw_r_tw_dp_x_7lBjFb315PD6X), by George Orwell
 * [On the Road](https://www.amazon.com/dp/0140283293/ref=cm_sw_r_tw_dp_U_x_juNPDb1ZD87NP), by Jack Kerouac
 * [The Old Man and the Sea](https://www.amazon.com/dp/0684801221/ref=cm_sw_r_tw_dp_U_x_MKM5Eb96ZQ54J), by Ernest Hemingway
 * [L'étranger](https://www.amazon.com/dp/2070360024/ref=cm_sw_r_tw_dp_U_x_mEUAEbVX3RZ34), by Albert Camus
