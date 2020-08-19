@@ -8,18 +8,19 @@ Here's a list of things I've been up to, from what I'm reading to what projects 
 
 ### Completed
 
-* [Nineteen Eighty-Four](https://www.amazon.com/dp/0451524934/ref=cm_sw_r_tw_dp_x_7lBjFb315PD6X), by George Orwell
-* [On the Road](https://www.amazon.com/dp/0140283293/ref=cm_sw_r_tw_dp_U_x_juNPDb1ZD87NP), by Jack Kerouac
-* [The Old Man and the Sea](https://www.amazon.com/dp/0684801221/ref=cm_sw_r_tw_dp_U_x_MKM5Eb96ZQ54J), by Ernest Hemingway
-* [L'étranger](https://www.amazon.com/dp/2070360024/ref=cm_sw_r_tw_dp_U_x_mEUAEbVX3RZ34), by Albert Camus
-* [Black Skin, White Masks](https://www.amazon.com/dp/0802143008/ref=cm_sw_r_tw_dp_U_x_yTMiEbYZKRN3S), by Frantz Fanon
+* [The Dharma Bums](https://en.wikipedia.org/wiki/The_Dharma_Bums), by Jack Kerouac
+* [Nineteen Eighty-Four](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four), by George Orwell
+* [On the Road](https://en.wikipedia.org/wiki/On_the_Road), by Jack Kerouac
+* [The Old Man and the Sea](https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea), by Ernest Hemingway
+* [L'étranger](https://en.wikipedia.org/wiki/The_Stranger_(Camus_novel)), by Albert Camus
+* [Black Skin, White Masks](https://en.wikipedia.org/wiki/Black_Skin,_White_Masks), by Frantz Fanon
 
 ### Currently Reading
 
-* [Being and Time](https://www.amazon.com/dp/1438432763/ref=cm_sw_r_tw_dp_U_x_mBXzDb882ZDDJ), by Martin Heidegger
-* [The World as Will and Representation, Vol. 1](https://www.amazon.com/dp/0486217612/ref=cm_sw_r_tw_dp_U_x_rkRpEb0X6ZF4V), by Arthur Schopenhauer
-* [Bird by Bird: Some Instructions on Writting and Life](https://www.amazon.com/dp/0385480016/ref=cm_sw_r_tw_dp_U_x_xFUAEb8V80ETA), by Anne Lammot
-* [Simulacra and Simulation](https://www.amazon.com/dp/0472065211/ref=cm_sw_r_tw_dp_U_x_5n7fEbVPD5519), by Jean Baudrillard
+* [Being and Time](https://en.wikipedia.org/wiki/Being_and_Time), by Martin Heidegger
+* [The World as Will and Representation, Vol. 1](https://en.wikipedia.org/wiki/The_World_as_Will_and_Representation), by Arthur Schopenhauer
+* [Bird by Bird: Some Instructions on Writting and Life](https://archive.org/details/birdbybirdsomein00lamo), by Anne Lammot
+* [Simulacra and Simulation](https://en.wikipedia.org/wiki/Simulacra_and_Simulation), by Jean Baudrillard
 
 ## Projects 👨‍💻
 
