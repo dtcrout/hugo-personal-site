@@ -8,6 +8,7 @@ Here's a list of things I've been up to, from what I'm reading to what projects 
 
 ### Completed
 
+* [The Prince](https://en.wikipedia.org/wiki/The_Prince), by Niccolò Machiavelli
 * [The Dharma Bums](https://en.wikipedia.org/wiki/The_Dharma_Bums), by Jack Kerouac
 * [Nineteen Eighty-Four](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four), by George Orwell
 * [On the Road](https://en.wikipedia.org/wiki/On_the_Road), by Jack Kerouac
