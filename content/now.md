@@ -8,6 +8,7 @@ Here's a list of things I've been up to, from what I'm reading to what projects 
 
 ### Completed
 
+* [Big Sur](https://en.wikipedia.org/wiki/Big_Sur_(novel)), by Jack Kerouac
 * [The Prince](https://en.wikipedia.org/wiki/The_Prince), by Niccolò Machiavelli
 * [The Dharma Bums](https://en.wikipedia.org/wiki/The_Dharma_Bums), by Jack Kerouac
 * [Nineteen Eighty-Four](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four), by George Orwell
@@ -18,6 +19,7 @@ Here's a list of things I've been up to, from what I'm reading to what projects 
 
 ### Currently Reading
 
+* [Journey to the End of the Night](https://en.wikipedia.org/wiki/Journey_to_the_End_of_the_Night), by Louis-Ferdinand Céline
 * [Being and Time](https://en.wikipedia.org/wiki/Being_and_Time), by Martin Heidegger
 * [The World as Will and Representation, Vol. 1](https://en.wikipedia.org/wiki/The_World_as_Will_and_Representation), by Arthur Schopenhauer
 * [Bird by Bird: Some Instructions on Writting and Life](https://archive.org/details/birdbybirdsomein00lamo), by Anne Lammot
