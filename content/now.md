@@ -8,6 +8,7 @@ Here's a list of things I've been up to, from what I'm reading to what projects 
 
 ### Completed
 
+* [Women, Race and Class](https://en.wikipedia.org/wiki/Women,_Race_and_Class), by Angela Davis
 * [Big Sur](https://en.wikipedia.org/wiki/Big_Sur_(novel)), by Jack Kerouac
 * [The Prince](https://en.wikipedia.org/wiki/The_Prince), by Niccolò Machiavelli
 * [The Dharma Bums](https://en.wikipedia.org/wiki/The_Dharma_Bums), by Jack Kerouac
