@@ -4,7 +4,7 @@ theme ="hugo-theme-basic"
 languageCode = "en-us"
 googleAnalytics = "UA-133534404-1"
 enableEmoji = true
-copyright = "© 2020 Darshan Crout (<a href='https://twitter.com/durshmallow'>@durshmallow</a>). All rights reserved."
+copyright = "© 2021 Darshan Crout (<a href='https://twitter.com/durshmallow'>@durshmallow</a>). All rights reserved."
 description = ""
 disqusShortname = "http-darshancrout-ai"
 
